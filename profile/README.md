@@ -12,7 +12,6 @@ PHPFlasher is being actively developed by <a href="https://github.com/yoeunes">y
 on any of the following:
 
 - [Github Issues](https://github.com/php-flasher/flasher/issues) 
-- [Github](https://github.com/yoeunes)
 - [Twitter](https://twitter.com/yoeunes)
 - [Linkedin](https://www.linkedin.com/in/younes-khoubza/)
 - [Email me directly](mailto:younes.khoubza@gmail.com)
