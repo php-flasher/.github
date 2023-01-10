@@ -5,6 +5,11 @@
     </picture>
 </p>
 
+<p align="center">
+    <img width="400" src="https://user-images.githubusercontent.com/10859693/211452664-7fce6f87-b7aa-4b94-927c-e9f49f64bd92.png" alt="PHPFlasher notifications" />
+</p>
+
+
 
 Documentation for PHPFlasher can be found on the [https://php-flasher.io](https://php-flasher.io).
 
