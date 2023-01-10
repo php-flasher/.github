@@ -1,14 +1,9 @@
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/php-flasher/art/main/php-flasher-logo-dark.svg">
-      <img  width="600" src="https://raw.githubusercontent.com/php-flasher/art/main/php-flasher-logo.svg" alt="PHPFlasher Logo">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/php-flasher/art/main/php-flasher-github-dark.png">
+      <img src="https://raw.githubusercontent.com/php-flasher/art/main/php-flasher-github.png" alt="PHPFlasher Logo">
     </picture>
 </p>
-
-<p align="center">
-    <img width="400" src="https://user-images.githubusercontent.com/10859693/211452664-7fce6f87-b7aa-4b94-927c-e9f49f64bd92.png" alt="PHPFlasher notifications" />
-</p>
-
 
 
 Documentation for PHPFlasher can be found on the [https://php-flasher.io](https://php-flasher.io).
